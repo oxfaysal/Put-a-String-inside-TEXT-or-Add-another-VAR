@@ -19,3 +19,10 @@ ${another string or int}
 ```
 "This is Text " + variable.toString();
 ```
+
+
+
+
+
+
+                                                                        ©️ All Right Reserved by Faysal
