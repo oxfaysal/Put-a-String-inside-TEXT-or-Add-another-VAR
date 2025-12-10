@@ -5,3 +5,10 @@
 ~~~
 "My Name is ${personitem['name']} and my age is ${personitem['age']} & I am ${personitem['status']} .",
 ~~~
+
+
+### Inside Text
+
+```
+${another string or int}
+```
