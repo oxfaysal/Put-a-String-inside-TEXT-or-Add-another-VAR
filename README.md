@@ -25,4 +25,5 @@ ${another string or int}
 
 
 
-###### ©️ All Right Reserved by Faysal
+###### © All right reserved by Faysal
+
